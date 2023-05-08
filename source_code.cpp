@@ -1,3 +1,8 @@
+// library untuk TFT LCD =  adafruit gfx
+// with ST7789_Fast library link github : https://github.com/cbm80amiga/Arduino_ST7789_Fast.git
+// link tutorial : https://www.youtube.com/watch?v=HoZhgNcJjNA
+
+
 #include "LowPower.h"
 #include "Arduino.h"
 #define sensor 34
